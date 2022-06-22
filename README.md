@@ -20,7 +20,7 @@
 
   <img alt="Postman" width="117px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" /> 
 
-  <img alt="JavaScript" width="117px" src="ttps://user-images.githubusercontent.com/98097001/174988204-fc734c10-9487-4fdc-ac75-194ef212e569.png" /> 
+  <img alt="JavaScript" width="117px" src="https://user-images.githubusercontent.com/98097001/174988204-fc734c10-9487-4fdc-ac75-194ef212e569.png" /> 
 
   <img alt="Android" width="117px" src="https://user-images.githubusercontent.com/89486551/143319797-01713acf-1cc6-49c9-ae92-d520d55cef17.png" />
 
@@ -32,7 +32,7 @@
 
   <img alt="Python" width="102px" src="https://user-images.githubusercontent.com/98097001/174987942-db33b55d-3b7b-4321-be3c-e71a9a8c8d8e.png" />
 
-  <img alt="DBeaver" width="102px" src="https://user-images.githubusercontent.com/98097001/174984679-112dea29-de79-406f-b6df-077096dc35ed.pngh" />
+  <img alt="DBeaver" width="102px" src="https://user-images.githubusercontent.com/98097001/174984679-112dea29-de79-406f-b6df-077096dc35ed.png" />
 
   <img alt="Jira" width="102px" src="https://user-images.githubusercontent.com/98097001/174988613-f03bd2ba-2dba-4819-9e25-cc7ffc28b159.png" />
 
