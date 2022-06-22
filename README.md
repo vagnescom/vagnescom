@@ -8,8 +8,8 @@
 - хочу быть величайшим QA Engineer.
 - заинтересован в жизненном цикле разработке программного обеспечения. Я хочу знать все о проектах: продажи, разработка, тестирование, доставка.
 - сейчас прохожу курс у величайшего QA Engineer [Вадима Ксендзова](https://instagram.com/vadim_ksendzov?igshid=YmMyMTA2M2Y=).
-- использую эти инстументы на курсе: Git (Terminal), DevTools, Postman, JavaScript, Android Studio, Charles, JMeter,
-- и иследую их: Fiddler, Python, DBeaver, Jira, PyCharm, Swagger, Xcode.
+- использую эти инстументы на курсе: Git (Terminal), DevTools, Postman, DBeaver, Android Studio, Charles, JMeter,
+- и иследую их: Fiddler, Python, JavaScript, Jira, PyCharm, Swagger, Xcode.
 
 <div align="center">
 
