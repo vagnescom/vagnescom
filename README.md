@@ -28,19 +28,19 @@
 
   <img alt="JMeter" width="117px" src="https://user-images.githubusercontent.com/89486551/170130770-05666e29-abdc-43cb-9b85-b716c2509eae.png" />
 
-  <img alt="Fiddler" width="117px" src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" />
+  <img alt="Fiddler" width="102px" src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" />
 
-  <img alt="Python" width="117px" src="https://user-images.githubusercontent.com/98097001/174987942-db33b55d-3b7b-4321-be3c-e71a9a8c8d8e.png" />
+  <img alt="Python" width="102px" src="https://user-images.githubusercontent.com/98097001/174987942-db33b55d-3b7b-4321-be3c-e71a9a8c8d8e.png" />
 
-  <img alt="DBeaver" width="117px" src="https://user-images.githubusercontent.com/98097001/174988204-fc734c10-9487-4fdc-ac75-194ef212e569.png" />
+  <img alt="DBeaver" width="102px" src="https://user-images.githubusercontent.com/98097001/174988204-fc734c10-9487-4fdc-ac75-194ef212e569.png" />
 
-  <img alt="Jira" width="117px" src="https://user-images.githubusercontent.com/98097001/174988613-f03bd2ba-2dba-4819-9e25-cc7ffc28b159.png" />
+  <img alt="Jira" width="102px" src="https://user-images.githubusercontent.com/98097001/174988613-f03bd2ba-2dba-4819-9e25-cc7ffc28b159.png" />
 
-  <img alt="PyCharm" width="117px" src="https://user-images.githubusercontent.com/98097001/174988834-7b0f097a-b924-4264-bdce-d430d6182768.png" />
+  <img alt="PyCharm" width="102px" src="https://user-images.githubusercontent.com/98097001/174988834-7b0f097a-b924-4264-bdce-d430d6182768.png" />
 
-  <img alt="Swagger" width="117px" src="https://user-images.githubusercontent.com/89486551/153722742-ae154b3b-291e-4e94-a969-43dbcc537acd.png" />
+  <img alt="Swagger" width="102px" src="https://user-images.githubusercontent.com/89486551/153722742-ae154b3b-291e-4e94-a969-43dbcc537acd.png" />
 
-  <img alt="Xcode" width="117px" src="https://user-images.githubusercontent.com/98097001/174989049-0d3f1e97-7fac-4b35-b981-06861a076855.png" />
+  <img alt="Xcode" width="102px" src="https://user-images.githubusercontent.com/98097001/174989049-0d3f1e97-7fac-4b35-b981-06861a076855.png" />
 
 </div>
 
