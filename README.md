@@ -49,4 +49,4 @@
 - в поисках работы!
 <br>
 
-**Вы можете связаться со мной** @ [Telrgram](https://t.me/vagnescom) | [Linkedin](https://www.linkedin.com/in/levinn/) | [Email](vagnescom@gmail.com)
+**Вы можете связаться со мной** @ [Telrgram](https://t.me/lllevinnn) | [Linkedin](https://www.linkedin.com/in/levinn/) | [Email](ilya@llevin.ru)
